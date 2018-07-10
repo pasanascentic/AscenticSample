@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ascentic.Sample.Entities\Ascentic.Sample.Entities.csproj" />
+    <ProjectReference Include="..\Ascentic.Sample.Repositories\Ascentic.Sample.Repositories.csproj" />
+    <ProjectReference Include="..\Ascentic.Sample.Services\Ascentic.Sample.Services.csproj" />
+    <ProjectReference Include="..\Ascentic.Sample.ViewModel\Ascentic.Sample.ViewModel.csproj" />
+  </ItemGroup>
+
+</Project>
