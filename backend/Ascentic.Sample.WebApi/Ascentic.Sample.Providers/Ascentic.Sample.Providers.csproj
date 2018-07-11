@@ -6,6 +6,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Ascentic.Sample.Entities\Ascentic.Sample.Entities.csproj" />
+    <ProjectReference Include="..\Ascentic.Sample.Repositories\Ascentic.Sample.Repositories.csproj" />
+    <ProjectReference Include="..\Ascentic.Sample.ViewModel\Ascentic.Sample.ViewModel.csproj" />
   </ItemGroup>
 
 </Project>

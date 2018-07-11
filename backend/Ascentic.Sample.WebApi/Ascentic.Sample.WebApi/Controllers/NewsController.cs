@@ -2,43 +2,42 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Ascentic.Sample.Services;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Logging;
 
 namespace Ascentic.Sample.WebApi.Controllers
 {
     [Route("api/[controller]")]
-    public class NewsController : Controller
+    public class NewsController : BaseController
     {
-        // GET api/values
+        #region Business Logics
+
+        public INewsService NewsService { get; set; }
+
+        #endregion
+
+        public NewsController(IConfiguration configuration,
+            ILogger<NewsController> loggerController,
+            INewsService newsService)
+            : base(configuration, loggerController)
+        {
+            NewsService = newsService;
+        }
+
+        // GET api/news
         [HttpGet]
-        public IEnumerable<string> Get()
+        public async Task<IActionResult> Get()
         {
-            return new string[] { "value1", "value2" };
-        }
+            return await ExecuteTaskAsync(async () =>
+            {
+                // Get News
+                var news = await NewsService.GetNewsAsync();
 
-        // GET api/values/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
-
-        // POST api/values
-        [HttpPost]
-        public void Post([FromBody]string value)
-        {
-        }
-
-        // PUT api/values/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody]string value)
-        {
-        }
-
-        // DELETE api/values/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
+                // Return News
+                return Ok(news);
+            });
         }
     }
 }

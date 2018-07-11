@@ -9,19 +9,29 @@ namespace Ascentic.Sample.ViewModel.Models.News
 
         public DateTime ExpireDate { get; set; }
 
-        public Entities.News ToEntity()
+        public NewsViewModel()
         {
-            return new Entities.News
-            {
-                Message = Message,
-                ExpireDate = ExpireDate
-            };
         }
 
-        public void ToModel(Entities.News entity)
-        {
-            Message = entity.Message;
-            ExpireDate = entity.ExpireDate;
-        }
+        //// Auto Mapper take cares of this 
+        //public NewsViewModel(Entities.News entity)
+        //{
+        //    ToModel(entity);
+        //}
+
+        //public Entities.News ToEntity()
+        //{
+        //    return new Entities.News
+        //    {
+        //        Message = Message,
+        //        ExpireDate = ExpireDate
+        //    };
+        //}
+
+        //public void ToModel(Entities.News entity)
+        //{
+        //    Message = entity.Message;
+        //    ExpireDate = entity.ExpireDate;
+        //}
     }
 }

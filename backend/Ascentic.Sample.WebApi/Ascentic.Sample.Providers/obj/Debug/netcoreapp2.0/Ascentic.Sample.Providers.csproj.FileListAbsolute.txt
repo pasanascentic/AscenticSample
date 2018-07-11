@@ -10,15 +10,3 @@ c:\users\pasanrakitha\source\repos\Ascentic.Sample.WebApi\Ascentic.Sample.Provid
 c:\users\pasanrakitha\source\repos\Ascentic.Sample.WebApi\Ascentic.Sample.Providers\obj\Debug\netcoreapp2.0\Ascentic.Sample.Providers.dll
 c:\users\pasanrakitha\source\repos\Ascentic.Sample.WebApi\Ascentic.Sample.Providers\obj\Debug\netcoreapp2.0\Ascentic.Sample.Providers.pdb
 c:\users\pasanrakitha\source\repos\Ascentic.Sample.WebApi\Ascentic.Sample.Providers\obj\Debug\netcoreapp2.0\Ascentic.Sample.Providers.csprojAssemblyReference.cache
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Providers\bin\Debug\netcoreapp2.0\Ascentic.Sample.Providers.deps.json
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Providers\bin\Debug\netcoreapp2.0\Ascentic.Sample.Providers.dll
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Providers\bin\Debug\netcoreapp2.0\Ascentic.Sample.Providers.pdb
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Providers\bin\Debug\netcoreapp2.0\Ascentic.Sample.Entities.dll
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Providers\bin\Debug\netcoreapp2.0\Ascentic.Sample.Entities.pdb
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Providers\obj\Debug\netcoreapp2.0\Ascentic.Sample.Providers.csproj.CoreCompileInputs.cache
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Providers\obj\Debug\netcoreapp2.0\Ascentic.Sample.Providers.AssemblyInfoInputs.cache
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Providers\obj\Debug\netcoreapp2.0\Ascentic.Sample.Providers.AssemblyInfo.cs
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Providers\obj\Debug\netcoreapp2.0\Ascentic.Sample.Providers.csproj.CopyComplete
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Providers\obj\Debug\netcoreapp2.0\Ascentic.Sample.Providers.dll
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Providers\obj\Debug\netcoreapp2.0\Ascentic.Sample.Providers.pdb
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Providers\obj\Debug\netcoreapp2.0\Ascentic.Sample.Providers.csprojAssemblyReference.cache

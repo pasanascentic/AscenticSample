@@ -3,9 +3,9 @@ using Ascentic.Sample.ViewModel.Models.News;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace Ascentic.Sample.Services
+namespace Ascentic.Sample.Providers
 {
-    public interface INewsService : IBaseService
+    public interface INewsProvider : IBaseProvider
     {
         Task<Output<List<NewsViewModel>>> GetNewsAsync();
     }

@@ -17,4 +17,16 @@
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.4" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Ascentic.Sample.Entities\Ascentic.Sample.Entities.csproj" />
+    <ProjectReference Include="..\Ascentic.Sample.Mapper\Ascentic.Sample.Mapper.csproj" />
+    <ProjectReference Include="..\Ascentic.Sample.Providers.Dependencies\Ascentic.Sample.Providers.Dependencies.csproj" />
+    <ProjectReference Include="..\Ascentic.Sample.Providers\Ascentic.Sample.Providers.csproj" />
+    <ProjectReference Include="..\Ascentic.Sample.Repositories.Dependencies\Ascentic.Sample.Repositories.Dependencies.csproj" />
+    <ProjectReference Include="..\Ascentic.Sample.Repositories\Ascentic.Sample.Repositories.csproj" />
+    <ProjectReference Include="..\Ascentic.Sample.Services.Dependencies\Ascentic.Sample.Services.Dependencies.csproj" />
+    <ProjectReference Include="..\Ascentic.Sample.Services\Ascentic.Sample.Services.csproj" />
+    <ProjectReference Include="..\Ascentic.Sample.ViewModel\Ascentic.Sample.ViewModel.csproj" />
+  </ItemGroup>
+
 </Project>

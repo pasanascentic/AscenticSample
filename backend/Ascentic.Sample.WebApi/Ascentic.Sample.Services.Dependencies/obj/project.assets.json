@@ -948,6 +948,21 @@
           "bin/placeholder/Ascentic.Sample.Entities.dll": {}
         }
       },
+      "Ascentic.Sample.Providers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "Ascentic.Sample.Entities": "1.0.0",
+          "Ascentic.Sample.Repositories": "1.0.0",
+          "Ascentic.Sample.ViewModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ascentic.Sample.Providers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ascentic.Sample.Providers.dll": {}
+        }
+      },
       "Ascentic.Sample.Repositories/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
@@ -3573,6 +3588,11 @@
       "path": "../Ascentic.Sample.Entities/Ascentic.Sample.Entities.csproj",
       "msbuildProject": "../Ascentic.Sample.Entities/Ascentic.Sample.Entities.csproj"
     },
+    "Ascentic.Sample.Providers/1.0.0": {
+      "type": "project",
+      "path": "../Ascentic.Sample.Providers/Ascentic.Sample.Providers.csproj",
+      "msbuildProject": "../Ascentic.Sample.Providers/Ascentic.Sample.Providers.csproj"
+    },
     "Ascentic.Sample.Repositories/1.0.0": {
       "type": "project",
       "path": "../Ascentic.Sample.Repositories/Ascentic.Sample.Repositories.csproj",
@@ -3591,8 +3611,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "Ascentic.Sample.Entities >= 1.0.0",
-      "Ascentic.Sample.Repositories >= 1.0.0",
+      "Ascentic.Sample.Providers >= 1.0.0",
       "Ascentic.Sample.Services >= 1.0.0",
       "Ascentic.Sample.ViewModel >= 1.0.0",
       "Microsoft.NETCore.App >= 2.0.0"
@@ -3628,11 +3647,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "\\\\Mac\\Home\\Documents\\GitHub\\AscenticSample\\backend\\Ascentic.Sample.WebApi\\Ascentic.Sample.Entities\\Ascentic.Sample.Entities.csproj": {
-              "projectPath": "\\\\Mac\\Home\\Documents\\GitHub\\AscenticSample\\backend\\Ascentic.Sample.WebApi\\Ascentic.Sample.Entities\\Ascentic.Sample.Entities.csproj"
-            },
-            "\\\\Mac\\Home\\Documents\\GitHub\\AscenticSample\\backend\\Ascentic.Sample.WebApi\\Ascentic.Sample.Repositories\\Ascentic.Sample.Repositories.csproj": {
-              "projectPath": "\\\\Mac\\Home\\Documents\\GitHub\\AscenticSample\\backend\\Ascentic.Sample.WebApi\\Ascentic.Sample.Repositories\\Ascentic.Sample.Repositories.csproj"
+            "\\\\Mac\\Home\\Documents\\GitHub\\AscenticSample\\backend\\Ascentic.Sample.WebApi\\Ascentic.Sample.Providers\\Ascentic.Sample.Providers.csproj": {
+              "projectPath": "\\\\Mac\\Home\\Documents\\GitHub\\AscenticSample\\backend\\Ascentic.Sample.WebApi\\Ascentic.Sample.Providers\\Ascentic.Sample.Providers.csproj"
             },
             "\\\\Mac\\Home\\Documents\\GitHub\\AscenticSample\\backend\\Ascentic.Sample.WebApi\\Ascentic.Sample.Services\\Ascentic.Sample.Services.csproj": {
               "projectPath": "\\\\Mac\\Home\\Documents\\GitHub\\AscenticSample\\backend\\Ascentic.Sample.WebApi\\Ascentic.Sample.Services\\Ascentic.Sample.Services.csproj"

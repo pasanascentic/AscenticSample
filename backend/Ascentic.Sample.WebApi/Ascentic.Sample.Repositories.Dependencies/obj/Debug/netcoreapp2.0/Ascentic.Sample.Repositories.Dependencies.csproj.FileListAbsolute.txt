@@ -12,17 +12,3 @@ c:\users\pasanrakitha\source\repos\Ascentic.Sample.WebApi\Ascentic.Sample.Reposi
 c:\users\pasanrakitha\source\repos\Ascentic.Sample.WebApi\Ascentic.Sample.Repositories.Dependencies\obj\Debug\netcoreapp2.0\Ascentic.Sample.Repositories.Dependencies.csproj.CopyComplete
 c:\users\pasanrakitha\source\repos\Ascentic.Sample.WebApi\Ascentic.Sample.Repositories.Dependencies\obj\Debug\netcoreapp2.0\Ascentic.Sample.Repositories.Dependencies.dll
 c:\users\pasanrakitha\source\repos\Ascentic.Sample.WebApi\Ascentic.Sample.Repositories.Dependencies\obj\Debug\netcoreapp2.0\Ascentic.Sample.Repositories.Dependencies.pdb
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Repositories.Dependencies\bin\Debug\netcoreapp2.0\Ascentic.Sample.Repositories.Dependencies.deps.json
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Repositories.Dependencies\bin\Debug\netcoreapp2.0\Ascentic.Sample.Repositories.Dependencies.dll
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Repositories.Dependencies\bin\Debug\netcoreapp2.0\Ascentic.Sample.Repositories.Dependencies.pdb
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Repositories.Dependencies\bin\Debug\netcoreapp2.0\Ascentic.Sample.Entities.dll
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Repositories.Dependencies\bin\Debug\netcoreapp2.0\Ascentic.Sample.Repositories.dll
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Repositories.Dependencies\bin\Debug\netcoreapp2.0\Ascentic.Sample.Repositories.pdb
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Repositories.Dependencies\bin\Debug\netcoreapp2.0\Ascentic.Sample.Entities.pdb
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Repositories.Dependencies\obj\Debug\netcoreapp2.0\Ascentic.Sample.Repositories.Dependencies.csprojAssemblyReference.cache
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Repositories.Dependencies\obj\Debug\netcoreapp2.0\Ascentic.Sample.Repositories.Dependencies.csproj.CoreCompileInputs.cache
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Repositories.Dependencies\obj\Debug\netcoreapp2.0\Ascentic.Sample.Repositories.Dependencies.AssemblyInfoInputs.cache
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Repositories.Dependencies\obj\Debug\netcoreapp2.0\Ascentic.Sample.Repositories.Dependencies.AssemblyInfo.cs
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Repositories.Dependencies\obj\Debug\netcoreapp2.0\Ascentic.Sample.Repositories.Dependencies.csproj.CopyComplete
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Repositories.Dependencies\obj\Debug\netcoreapp2.0\Ascentic.Sample.Repositories.Dependencies.dll
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Repositories.Dependencies\obj\Debug\netcoreapp2.0\Ascentic.Sample.Repositories.Dependencies.pdb

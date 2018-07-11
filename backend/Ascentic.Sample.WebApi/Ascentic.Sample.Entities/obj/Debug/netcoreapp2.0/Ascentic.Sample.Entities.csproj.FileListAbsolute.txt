@@ -7,12 +7,3 @@ c:\users\pasanrakitha\source\repos\Ascentic.Sample.WebApi\Ascentic.Sample.Entiti
 c:\users\pasanrakitha\source\repos\Ascentic.Sample.WebApi\Ascentic.Sample.Entities\obj\Debug\netcoreapp2.0\Ascentic.Sample.Entities.dll
 c:\users\pasanrakitha\source\repos\Ascentic.Sample.WebApi\Ascentic.Sample.Entities\obj\Debug\netcoreapp2.0\Ascentic.Sample.Entities.pdb
 c:\users\pasanrakitha\source\repos\Ascentic.Sample.WebApi\Ascentic.Sample.Entities\obj\Debug\netcoreapp2.0\Ascentic.Sample.Entities.csprojAssemblyReference.cache
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Entities\bin\Debug\netcoreapp2.0\Ascentic.Sample.Entities.deps.json
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Entities\bin\Debug\netcoreapp2.0\Ascentic.Sample.Entities.dll
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Entities\bin\Debug\netcoreapp2.0\Ascentic.Sample.Entities.pdb
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Entities\obj\Debug\netcoreapp2.0\Ascentic.Sample.Entities.csprojAssemblyReference.cache
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Entities\obj\Debug\netcoreapp2.0\Ascentic.Sample.Entities.csproj.CoreCompileInputs.cache
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Entities\obj\Debug\netcoreapp2.0\Ascentic.Sample.Entities.AssemblyInfoInputs.cache
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Entities\obj\Debug\netcoreapp2.0\Ascentic.Sample.Entities.AssemblyInfo.cs
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Entities\obj\Debug\netcoreapp2.0\Ascentic.Sample.Entities.dll
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.Entities\obj\Debug\netcoreapp2.0\Ascentic.Sample.Entities.pdb

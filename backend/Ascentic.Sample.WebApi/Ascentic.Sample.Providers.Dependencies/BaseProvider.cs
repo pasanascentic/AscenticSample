@@ -1,17 +1,23 @@
-﻿using System;
+﻿using Ascentic.Sample.Repositories;
+using System;
+using System.Collections.Generic;
+using System.Text;
 using System.Threading.Tasks;
 
-namespace Ascentic.Sample.Services.Dependencies
+namespace Ascentic.Sample.Providers.Dependencies
 {
-    public abstract class BaseService : IBaseService
+    public class BaseProvider : IBaseProvider
     {
-        protected BaseService()
+        protected IUnitOfWork UnitOfWork { get; }
+
+        protected BaseProvider(IUnitOfWork unitOfWork)
         {
+            UnitOfWork = unitOfWork;
         }
 
         #region Protected Methods
 
-        protected async Task<dynamic> ExecuteBlockAsync(Func<Task<dynamic>> func, Func<Exception,dynamic> onerror = null)
+        protected async Task<dynamic> ExecuteBlockAsync(Func<Task<dynamic>> func, Func<Exception, dynamic> onerror = null)
         {
             try
             {
