@@ -10,15 +10,3 @@ c:\users\pasanrakitha\source\repos\Ascentic.Sample.WebApi\Ascentic.Sample.ViewMo
 c:\users\pasanrakitha\source\repos\Ascentic.Sample.WebApi\Ascentic.Sample.ViewModel\obj\Debug\netcoreapp2.0\Ascentic.Sample.ViewModel.csproj.CopyComplete
 c:\users\pasanrakitha\source\repos\Ascentic.Sample.WebApi\Ascentic.Sample.ViewModel\obj\Debug\netcoreapp2.0\Ascentic.Sample.ViewModel.dll
 c:\users\pasanrakitha\source\repos\Ascentic.Sample.WebApi\Ascentic.Sample.ViewModel\obj\Debug\netcoreapp2.0\Ascentic.Sample.ViewModel.pdb
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.ViewModel\bin\Debug\netcoreapp2.0\Ascentic.Sample.ViewModel.deps.json
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.ViewModel\bin\Debug\netcoreapp2.0\Ascentic.Sample.ViewModel.dll
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.ViewModel\bin\Debug\netcoreapp2.0\Ascentic.Sample.ViewModel.pdb
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.ViewModel\bin\Debug\netcoreapp2.0\Ascentic.Sample.Entities.dll
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.ViewModel\bin\Debug\netcoreapp2.0\Ascentic.Sample.Entities.pdb
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.ViewModel\obj\Debug\netcoreapp2.0\Ascentic.Sample.ViewModel.csproj.CoreCompileInputs.cache
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.ViewModel\obj\Debug\netcoreapp2.0\Ascentic.Sample.ViewModel.AssemblyInfoInputs.cache
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.ViewModel\obj\Debug\netcoreapp2.0\Ascentic.Sample.ViewModel.AssemblyInfo.cs
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.ViewModel\obj\Debug\netcoreapp2.0\Ascentic.Sample.ViewModel.csproj.CopyComplete
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.ViewModel\obj\Debug\netcoreapp2.0\Ascentic.Sample.ViewModel.dll
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.ViewModel\obj\Debug\netcoreapp2.0\Ascentic.Sample.ViewModel.pdb
-\\Mac\Home\Documents\GitHub\AscenticSample\backend\Ascentic.Sample.WebApi\Ascentic.Sample.ViewModel\obj\Debug\netcoreapp2.0\Ascentic.Sample.ViewModel.csprojAssemblyReference.cache
